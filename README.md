@@ -5,7 +5,6 @@
 
 I'm a passionate software developer and podcaster with a background in Innovation Engineering. Here's a bit about me:
 
-- 🔭 I’m currently working on projects involving Python, C, Java, R, HTML, Jekyll, Django, OpenCV, TkInter, and Kivy.
 - 🎓 I hold a Bachelor's degree in Innovation Engineering.
 - 🤖 I'm particularly interested in AI and Machine Learning.
 - 🎙️ I'm the host of the podcast "Iperconnessi" on Open Radio Unipa.
@@ -24,6 +23,7 @@ I'm a passionate software developer and podcaster with a background in Innovatio
 
 #### Connect with Me
 [![Instagram](https://img.shields.io/badge/-Website-0088CC?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ga8ro/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriele-locascio)
-[![YouTube](https://img.shields.io/badge/-Website-0088CC?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](www.linkedin.com/in/gabriele-locascio)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg)
+
 
