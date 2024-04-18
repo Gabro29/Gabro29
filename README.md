@@ -1,28 +1,49 @@
+<h1 align="center">Hi 👋, I'm <a href="https://gabro29.github.io/">Gabriele Lo Cascio</a></h1>
+<h3 align="center">Bsc student - Innovation Engineering - Università degli Studi di Palermo</h3>
 
-### Hi there, I'm [Gabriele Lo Cascio](https://gabro29.github.io/) 👋
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true)
+![GitHub User's stars](https://img.shields.io/github/stars/Gabro29?affiliations=OWNER,COLLABORATOR&style=social)
 
-I'm a passionate software developer and podcaster with a background in Innovation Engineering. Here's a bit about me:
+Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
-- 🎓 I hold a Bcs degree in Innovation Engineering.
-- 🤖 I'm particularly interested in AI and Machine Learning.
-- 🎙️ I'm the host of the podcast "Iperconnessi" on Open Radio Unipa.
+- 🧠 I'm particularly interested in AI and Machine Learning.
+- 🏎 Formula SAE Team IT Member [Apex Corse](https://github.com/Formula-SAE/IT)
+- 👨🏻‍💻 Currently working on [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
+- 🎙️ I co-host the podcast [Iperconnessi](https://open.spotify.com/episode/5usKggIh03yIwrXTdahqjZ?si=9c5d1ed64a5a469e) on Open Radio Unipa
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TkInter](https://img.shields.io/badge/-TkInter-FFD800?style=flat-square&logo=python&logoColor=white)
-![Kivy](https://img.shields.io/badge/-Kivy-4B8BBE?style=flat-square&logo=kivy&logoColor=white)
+#### Skills
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python">](https://www.python.org/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C">](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java">](https://www.java.com/)
+[<img src="https://www.r-project.org/Rlogo.png" width="48" height="48" alt="R">](https://www.r-project.org/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django">](https://www.djangoproject.com/)
+[<img src="https://jekyllrb.com/img/logo-2x.png" width="70" height="48" alt="Jekyll">](https://jekyllrb.com/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5">](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram">](https://telegram.org/)
+
+
+
+
 
 #### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriele-locascio)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ga8ro/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn">](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bsx39VwReRGOL6iye2JyGbA%3D%3D)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png" width="50" height="38" alt="YouTube">](https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg)
+
+
+#### My GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true)
+
+#### My Top Repositories<div width="100%" align="center">
+<p align="center">
+  <a href="https://github.com/Gabro29/Biliard_Torus">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Gabro29/Rubik">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</p>
+
+<br /><br /><br /><br /><br /><br /><br />
+
+
 
