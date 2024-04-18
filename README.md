@@ -1,4 +1,3 @@
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true)
 
 ### Hi there, I'm [Gabriele Lo Cascio](https://gabro29.github.io/) 👋
@@ -22,8 +21,7 @@ I'm a passionate software developer and podcaster with a background in Innovatio
 ![Kivy](https://img.shields.io/badge/-Kivy-4B8BBE?style=flat-square&logo=kivy&logoColor=white)
 
 #### Connect with Me
-[![Instagram](https://img.shields.io/badge/-Website-0088CC?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ga8ro/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](www.linkedin.com/in/gabriele-locascio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriele-locascio)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ga8ro/)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg)
-
 
