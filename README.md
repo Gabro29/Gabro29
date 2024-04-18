@@ -1,10 +1,11 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true)
 
 ### Hi there, I'm [Gabriele Lo Cascio](https://gabro29.github.io/) 👋
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true)
+
 I'm a passionate software developer and podcaster with a background in Innovation Engineering. Here's a bit about me:
 
-- 🎓 I hold a Bachelor's degree in Innovation Engineering.
+- 🎓 I hold a Bcs degree in Innovation Engineering.
 - 🤖 I'm particularly interested in AI and Machine Learning.
 - 🎙️ I'm the host of the podcast "Iperconnessi" on Open Radio Unipa.
 
