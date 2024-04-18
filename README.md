@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://gabro29.github.io/">Gabriele Lo Cascio</a></h1>
+<h1 align="center">Hi 👋, I'm Gabriele Lo Cascio</a></h1>
 <h3 align="center">Bsc student - Innovation Engineering - Università degli Studi di Palermo</h3>
-
+<!-- <a href="https://gabro29.github.io/"> -->
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Gabro29?affiliations=OWNER,COLLABORATOR&style=social)
 
