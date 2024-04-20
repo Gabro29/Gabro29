@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriele Lo Cascio</a></h1>
-<h3 align="center">Bsc student - Innovation Engineering - Università degli Studi di Palermo</h3>
+<h3 align="center">BSc student - Innovation Engineering - Università degli Studi di Palermo</h3>
 <!-- <a href="https://gabro29.github.io/"> -->
 
-![GitHub User's stars](https://img.shields.io/github/stars/Gabro29?affiliations=OWNER,COLLABORATOR&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Gabro29?affiliations=OWNER,COLLABORATOR&style=social) 
+![Profile Views](https://komarev.com/ghpvc/?username=Gabro29)
+
 
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
