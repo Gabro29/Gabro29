@@ -20,10 +20,10 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C">](https://en.wikipedia.org/wiki/C_(programming_language))
 [<img src="https://www.r-project.org/Rlogo.png" width="48" height="48" alt="R">](https://www.r-project.org/)
 [<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="48" height="48" alt="STM32">](https://www.st.com/en/development-tools/stm32cubeide.html)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram">](https://telegram.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django">](https://www.djangoproject.com/)
 [<img src="https://jekyllrb.com/img/logo-2x.png" width="70" height="48" alt="Jekyll">](https://jekyllrb.com/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5">](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram">](https://telegram.org/)
 
 
 
