@@ -9,8 +9,8 @@
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
 - 🧠 I'm particularly interested in AI and Machine Learning
-- ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
 - 🏎 Formula SAE Team IT Member [Apex Corse](https://github.com/Formula-SAE/IT)
+- ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
 - 👨🏻‍💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
 - 🎙️ I co-host the podcast [Iperconnessi](https://open.spotify.com/episode/5usKggIh03yIwrXTdahqjZ?si=9c5d1ed64a5a469e) on Open Radio Unipa
 
