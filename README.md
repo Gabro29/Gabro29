@@ -8,10 +8,11 @@
 
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
-- 💻 ItaDataHack24 Winner
+- 👨🏻‍💻 ItaDataHack24 Winner
+- 👨🏻‍💻 MDW Hackaton winner
 - 🏎 Formula SAE Team IT Member as Software Developer [Apex Corse](https://github.com/Formula-SAE/IT)
 - ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
-- 👨🏻‍💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
+- 💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
 - 🎙️ I co-host the podcast [Iperconnessi](https://open.spotify.com/episode/5usKggIh03yIwrXTdahqjZ?si=9c5d1ed64a5a469e) on Open Radio Unipa
 
 #### Skills
