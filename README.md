@@ -9,7 +9,7 @@
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
 - 👨🏻‍💻 ItaDataHack24 Winner
-- 👨🏻‍💻 MDW Hackaton winner
+- 👨🏻‍💻 MDW Hackaton Winner
 - 🏎 Formula SAE Team IT Member as Software Developer [Apex Corse](https://github.com/Formula-SAE/IT)
 - ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
 - 💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
