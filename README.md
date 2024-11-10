@@ -39,24 +39,25 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true)
 
 #### My Top Repositories<div width="100%" align="center">
-<p align="center">
-  </a>
+<div align="center">
+  
   <a href="https://github.com/Gabro29/Q-Learning_Tris">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-  </a>
+  
   <a href="https://github.com/Gabro29/ITA_DATA_HACK">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=ITA_DATA_HACK&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=ITA_DATA_HACK&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+  
   <a href="https://github.com/Gabro29/Biliard_Torus">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
+  
   <a href="https://github.com/Gabro29/Rubik">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</p>
 
-<br /><br /><br /><br /><br /><br /><br />
+</div>
 
 
 
