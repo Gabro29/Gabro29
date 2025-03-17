@@ -8,7 +8,7 @@
 
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
-- 👨🏻‍💻 Alpine Climate Challenge for TELT Winner (2nd place)
+- 👨🏻‍💻 Alpine Climate Data Challenge for TELT Winner (2nd place)
 - 👨🏻‍💻 ItaDataHack24 Winner (2nd place)
 - 👨🏻‍💻 MDW Hackaton Winner (1st place)
 - 🏎 Formula SAE Team IT Member as Software Developer [Apex Corse](https://github.com/Formula-SAE/IT)
