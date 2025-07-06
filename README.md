@@ -8,14 +8,14 @@
 
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
+- 🏎 [Apex Corse](https://github.com/ApexCorse/IT) Team IT Member as Software Developer - Formula SAE
+- ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
+- 💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
+- 🎙️ I co-host the podcast [Iperconnessi](https://www.youtube.com/@iperconnessi)
+- A basic version of my [Accounting Software](https://github.com/Gabro29/Accounting)
 - 👨🏻‍💻 Alpine Climate Data Challenge for TELT Winner (2nd place)
 - 👨🏻‍💻 ItaDataHack24 Winner (2nd place)
 - 👨🏻‍💻 MDW Hackaton Winner (1st place)
-- 🏎 Formula SAE Team IT Member as Software Developer [Apex Corse](https://github.com/Formula-SAE/IT)
-- ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
-- 💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
-- 🎙️ I co-host the podcast [Iperconnessi](https://open.spotify.com/episode/5usKggIh03yIwrXTdahqjZ?si=9c5d1ed64a5a469e) on Open Radio Unipa
-- A basic and sharable version of my [Accounting Software](https://github.com/Gabro29/Accounting)
 
 #### Skills
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python">](https://www.python.org/)
