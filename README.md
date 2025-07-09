@@ -8,7 +8,7 @@
 
 Passionate self-learner with a knack for dissecting the world around me. Constantly pushing boundaries by building projects from scratch and embracing new challenges. 
 
-- 🏎 [Apex Corse](https://github.com/ApexCorse/IT) Team IT Member as Software Developer - Formula SAE
+- 🏎 [Apex Corse](https://github.com/ApexCorse/IT) Team IT Member as Network & Embedded Engineer - Formula SAE
 - ⚛ [Qiskit Fall Fest 2023](https://qiskitfallfest23-unipa.github.io/) Organizer
 - 💻 Contributed to [VivereKaffettino](http://github.com/VivIngInf/VivereKaffettino)
 - 🎙️ I co-host the podcast [Iperconnessi](https://www.youtube.com/@iperconnessi)
