@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriele Lo Cascio</a></h1>
-<h3 align="center">BSc student - Innovation Engineering - Università degli Studi di Palermo</h3>
+<h3 align="center">MSc student - Computer Engineering & AI - Università degli Studi di Palermo</h3>
 <!-- <a href="https://gabro29.github.io/"> -->
 
 ![GitHub User's stars](https://img.shields.io/github/stars/Gabro29?affiliations=OWNER,COLLABORATOR&style=social) 
@@ -14,8 +14,7 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 - 🎙️ I co-host the podcast [Iperconnessi](https://www.youtube.com/@iperconnessi)
 - A basic version of my [Accounting Software](https://github.com/Gabro29/Accounting)
 - 👨🏻‍💻 Alpine Climate Data Challenge for TELT Winner (2nd place)
-- 👨🏻‍💻 ItaDataHack24 Winner (2nd place)
-- 👨🏻‍💻 MDW Hackaton Winner (1st place)
+- 👨🏻‍💻 Hack4FutureSicily Winner (2nd place)
 
 #### Skills
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python">](https://www.python.org/)
