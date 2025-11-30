@@ -19,33 +19,16 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 #### Skills
 
 **Programming Languages**
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python">](https://www.python.org/)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java">](https://www.java.com/)
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C">](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img src="https://www.r-project.org/Rlogo.png" width="48" height="48" alt="R">](https://www.r-project.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go">](https://go.dev/)
+<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48" height="48" alt="C" /> <img src="https://www.r-project.org/Rlogo.png" width="48" height="48" alt="R" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="48" height="48" alt="Go" /> </p>
 
 **Data Science & Machine Learning**
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48">]()
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48">]()
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48">]()
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="48" height="48">]()
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/2048px-Matplotlib_icon.svg.png" width="48" height="48" /> </p>
 
 **Backend / Full-Stack**
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/330px-Spring_Boot.svg.png" width="48" height="48" alt="Spring Boot">]()
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI">]()
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript">]()
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5">]()
-[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3">]() 
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" width="48" height="48" alt="Spring Boot" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /> </p>
 
 **Tools**
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48">]()
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48">]()
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" />
-
-
-**Embedded**
-[<img src="https://dl.flathub.org/repo/appstream/x86_64/icons/128x128/com.st.STM32CubeIDE.png" width="48" height="48">]()
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" /> </p>
 
 
 
@@ -66,24 +49,24 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
   <tr>
     <td width="50%">
       <a href="https://github.com/Gabro29/Q-Learning_Tris">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&theme=tokyonight" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/Gabro29/Biliard_Torus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Gabro29/Rubik">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+        <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Gabro29&repo=Rubik&theme=tokyonight" />
       </a>
     </td>
-    <td width="50%">
-    </td>
+    <td></td>
   </tr>
 </table>
+
 
 
