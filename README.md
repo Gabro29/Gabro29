@@ -36,8 +36,18 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 
 
 #### Connect with Me
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn">](https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bsx39VwReRGOL6iye2JyGbA%3D%3D)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/240px-YouTube_icon_%282013-2017%29.png" width="50" height="38" alt="YouTube">](https://www.youtube.com/channel/UCkGvbGqYzDi3lfgtbQ_pngg)
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriele-lo-cascio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
+  </a>
+  <a href="https://www.youtube.com/@iperconnessi" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="48" />
+  </a>
+  </a>
+  <a href="mailto:gabriele.locascio99@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" />
+  </a>
+</p>
 
 
 <!-- #### My GitHub Stats -->
@@ -45,28 +55,30 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 
 ### My Top Repositories
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Gabro29/Q-Learning_Tris">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&theme=tokyonight" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Gabro29/Biliard_Torus">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Gabro29/Rubik">
-        <img src="https://github-readme-stats-one-bice.vercel.app/api/pin/?username=Gabro29&repo=Rubik&theme=tokyonight" />
-      </a>
-    </td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
 
+  <a href="https://github.com/Gabro29/Q-Learning_Tris">
+    <img
+      align="center"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=86400"
+    />
+  </a>
 
+  <a href="https://github.com/Gabro29/Biliard_Torus">
+    <img
+      align="center"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=86400"
+    />
+  </a>
 
+  <a href="https://github.com/Gabro29/Rubik">
+    <img
+      align="center"
+      width="45%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=86400"
+    />
+  </a>
+
+</div>
