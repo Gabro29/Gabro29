@@ -41,7 +41,7 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   <a href="https://www.youtube.com/@iperconnessi" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" width="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="48" height="50"/>
   </a>
   </a>
   <a href="mailto:gabriele.locascio99@gmail.com" target="_blank">
@@ -55,30 +55,4 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 
 ### My Top Repositories
 
-<div align="center">
-
-  <a href="https://github.com/Gabro29/Q-Learning_Tris">
-    <img
-      align="center"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=86400"
-    />
-  </a>
-
-  <a href="https://github.com/Gabro29/Biliard_Torus">
-    <img
-      align="center"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=86400"
-    />
-  </a>
-
-  <a href="https://github.com/Gabro29/Rubik">
-    <img
-      align="center"
-      width="45%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&cache_seconds=86400"
-    />
-  </a>
-
-</div>
+<div width="100%" align="center"> <div align="center"> <a href="https://github.com/Gabro29/Q-Learning_Tris"> <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Q-Learning_Tris&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /> </a> <a href="https://github.com/Gabro29/Biliard_Torus"> <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Biliard_Torus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /> </a> <a href="https://github.com/Gabro29/Rubik"> <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /> </a> </div>
