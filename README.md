@@ -43,7 +43,6 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
   <a href="https://www.youtube.com/@iperconnessi" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="48" height="50"/>
   </a>
-  </a>
   <a href="mailto:gabriele.locascio99@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" />
   </a>
