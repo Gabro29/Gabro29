@@ -87,7 +87,7 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
 
 <!-- #### My GitHub Stats -->
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabro29&show_icons=true) -->
-
+<!-- 
 ### My Top Repositories
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/Gabro29/Q-Learning_Tris">
@@ -101,4 +101,4 @@ Passionate self-learner with a knack for dissecting the world around me. Constan
   <a href="https://github.com/Gabro29/Rubik">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabro29&repo=Rubik&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
-</div>
+</div> -->
